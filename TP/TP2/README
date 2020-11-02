@@ -1,15 +1,82 @@
-# Bibliothèques
-* 
-*
+L'objectif était de découvrir les fonctions, les structures, les pointeurs et les notations hexadécimales
 
-# Références
-*
-*
+* Exercice 1
+* Fichiers: puissance.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Création d'une fonction et de son prototype
 
-# Difficulté
-*
+* Exercice 2
+* Fichiers: bits.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Utilisation de masque logique et équation booléenne hors des conditions ou boucles
 
-# Commentaires
-* 
-* 
+* Exercice 3
+* Fichiers: fibonacci.c
+* Bibliothèques:
+  * stdio.h
+* Références
+  * https://fr.wikipedia.org/wiki/Suite_de_Fibonacci
+* Difficulté: simple
+* Commentaires
+ * Appels récursifs d'une fonction
 
+* Exercice 4
+* Fichiers: chaine.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Utilisation aussi contraignante qu'un tableau d'entier
+  * Ne pas oublier \0
+  * Utilisation de void
+
+* Exercice 5
+* Fichiers: eleve.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * utilisation du tableau de chaines de caractères
+
+* Exercice 6
+* Fichiers: eleve2.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Compréhension du typedef
+  * Lecture et écriture de structures
+
+* Exercice 7
+* Fichiers: couleurs.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * utilisation du modulo
+
+* Exercice 8
+* Fichiers: ptrvariables.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Création, ecriture, lecteur de pointeurs associés à des variables
+
+* Exercice 9
+* Fichiers: tableauptr.c
+* Bibliothèques:
+  * stdio.h
+  * stdlib.h
+  * time.h
+* Références: https://stackoverflow.com/questions/13408990/how-to-generate-random-float-number-in-c
+* Difficulté: moyenne
+* Commentaires
+  * Faire attention à l'incrément d'un pointeur de tableau selon son type
+  * Pas très agréable à utiliser avec des pointeurs car compliqué de savoir la longueur d'une chaine facilement

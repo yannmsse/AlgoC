@@ -1,15 +1,86 @@
-# Bibliothèques
-* 
-*
+L'objectif était de découvrir le C et ses types de variables. Nous devions exécuter des opérations sur ces variables et utiliser des boucles FOR et WHILE.
 
-# Références
-*
-*
+* Exercice 1
+* Fichiers: bonjour.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Bonne découverte de GCC
+  * Erreurs plus explicites que en Python
 
-# Difficulté
-*
+* Exercice 2
+* Fichiers: cercle.c
+* Bibliothèques:
+  * stdio.h
+  * math.h
+* Difficulté: simple
+* Commentaires
+  * Utilisation de lib externe
 
-# Commentaires
-* 
-* 
+* Exercice 3
+* Fichiers: sizeof_types.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+ * long int et long long int de même taille
 
+* Exercice 4
+* Fichiers: variables.c
+* Bibliothèques:
+  * stdio.h
+* Références:
+  * https://www.lix.polytechnique.fr/~liberti/public/computing/prog/c/C/FUNCTIONS/format.html
+* Difficulté: simple
+
+* Exercice 5
+* Fichiers: operateurs.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * utilisation du cast
+
+* Exercice 6
+* Fichiers: boucles.c boucles_while.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple - moyen
+* Commentaires
+  * nécessite un dessin
+  * version avec utilisation du while
+
+* Exercice 6
+* Fichiers: boucles.c boucles_while.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple - moyen
+* Commentaires
+  * nécessite un dessin
+  * version avec utilisation du while
+
+* Exercice 7
+* Fichiers: conditions.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * utilisation du modulo
+
+* Exercice 8
+* Fichiers: operateurs2.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * utilisation switch case
+
+* Exercice 9
+* Fichiers: binaire.c
+* Bibliothèques:
+  * stdio.h
+* Difficulté: simple
+* Commentaires
+  * Divisions par deux
+  * Déroulement de chaine de caractère
